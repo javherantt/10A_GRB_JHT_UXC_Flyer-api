@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BNAn8zd18vwAfNKoHst81Dfz4KaNvahgTOB2JTBt2rjGGeIe1ugQb16vGmFaj2OmBCNgz9lZo8ZpEk0Ehwfs7Q==",
+  "dgSpecHash": "/sn1RHH7zYagsr5ncWrRpJAb1etyf6RReMeWMxMTeZn15qSXINCxVsGOIYVK42DFmz90VCHbED4ruq7zjNfSHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Javier Hernández\\Documents\\Universidad\\10° Cuatrimestre\\Aplicaciones Web Progresivas\\Flyer-API\\Flyer.Domain\\Flyer.Domain.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Javier Hernández\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
-    "C:\\Users\\Javier Hernández\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.3.0\\fluentvalidation.aspnetcore.9.3.0.nupkg.sha512",
-    "C:\\Users\\Javier Hernández\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.3.0\\fluentvalidation.dependencyinjectionextensions.9.3.0.nupkg.sha512",
-    "C:\\Users\\Javier Hernández\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\Projects\\10A_GRB_JHT_UXC_Flyer-api\\Flyer.Domain\\Flyer.Domain.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

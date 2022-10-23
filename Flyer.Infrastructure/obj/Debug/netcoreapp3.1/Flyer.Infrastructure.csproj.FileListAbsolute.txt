@@ -14,3 +14,19 @@ C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones 
 C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Infrastructure\obj\Debug\netcoreapp3.1\Flyer.Infrastructure.dll
 C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Infrastructure\obj\Debug\netcoreapp3.1\Flyer.Infrastructure.pdb
 C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Infrastructure\obj\Debug\netcoreapp3.1\Flyer.Infrastructure.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Infrastructure\bin\Debug\netcoreapp3.1\Flyer.Infrastructure.deps.json
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Infrastructure\bin\Debug\netcoreapp3.1\Flyer.Infrastructure.runtimeconfig.json
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Infrastructure\bin\Debug\netcoreapp3.1\Flyer.Infrastructure.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Infrastructure\bin\Debug\netcoreapp3.1\Flyer.Infrastructure.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Infrastructure\bin\Debug\netcoreapp3.1\Flyer.Infrastructure.pdb
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Infrastructure\bin\Debug\netcoreapp3.1\Flyer.Domain.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Infrastructure\bin\Debug\netcoreapp3.1\Flyer.Domain.pdb
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Infrastructure\obj\Debug\netcoreapp3.1\Flyer.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Infrastructure\obj\Debug\netcoreapp3.1\Flyer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Infrastructure\obj\Debug\netcoreapp3.1\Flyer.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Infrastructure\obj\Debug\netcoreapp3.1\Flyer.Infrastructure.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Infrastructure\obj\Debug\netcoreapp3.1\Flyer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Infrastructure\obj\Debug\netcoreapp3.1\Flyer.Infrastructure.csproj.CopyComplete
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Infrastructure\obj\Debug\netcoreapp3.1\Flyer.Infrastructure.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Infrastructure\obj\Debug\netcoreapp3.1\Flyer.Infrastructure.pdb
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Infrastructure\obj\Debug\netcoreapp3.1\Flyer.Infrastructure.genruntimeconfig.cache

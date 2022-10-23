@@ -1,12 +1,9 @@
 ﻿using Flyer.Domain.Entities;
 using Flyer.Domain.Interfaces;
-using Flyer.Infrastructure.Data;
-using System;
-using System.Collections.Generic;
-using System.Text;
+using Flyer.Infraestructure.Data;
 using System.Threading.Tasks;
 
-namespace Flyer.Infrastructure.Repositories
+namespace Flyer.Infraestructure.Repositories
 {
     public sealed class UnitOfWork : IUnitOfWork
     {
@@ -23,8 +20,8 @@ namespace Flyer.Infrastructure.Repositories
             this._context = context;
         }
 
+        
         public IRepository<User> UserRepository => _userRepository ?? new SQLRepository<User>(_context);
-
         public IRepository<Tag> TagRepository => _tagRepository ?? new SQLRepository<Tag>(_context);
 
         public IRepository<Like> LikeRepository => _likeRepository ?? new SQLRepository<Like>(_context);

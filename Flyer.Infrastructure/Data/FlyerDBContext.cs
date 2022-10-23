@@ -1,10 +1,12 @@
 ﻿using Flyer.Domain.Entities;
+using Flyer.Infraestructure.Data.Configurations;
 using Microsoft.EntityFrameworkCore;
 
-namespace Flyer.Infrastructure.Data
+namespace Flyer.Infraestructure.Data
 {
     public partial class FlyerDBContext : DbContext
     {
+      
         public FlyerDBContext(DbContextOptions<FlyerDBContext> options)
            : base(options)
         { }
@@ -18,11 +20,13 @@ namespace Flyer.Infrastructure.Data
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Comment>().HasOne(b => b.Post).WithMany(i => i.Comment).HasForeignKey(s => s.PostId);
-            modelBuilder.Entity<Like>().HasOne(b => b.Post).WithMany(i => i.Like).HasForeignKey(s => s.PostId);
-            modelBuilder.Entity<Post>().HasOne(b => b.User).WithMany(i => i.Post).HasForeignKey(s => s.UserId);
-            modelBuilder.Entity<Follow>().HasOne(b => b.User).WithMany(i => i.Follow).HasForeignKey(s => s.UserId);
-            modelBuilder.Entity<Post>().HasOne(b => b.Tag).WithMany(i => i.Post).HasForeignKey(s => s.TagId);           
+            //modelBuilder.ApplyConfiguration<Comment>(new CommentConfiguration());
+            //modelBuilder.ApplyConfiguration<Follow>(new FollowConfiguration());
+            //modelBuilder.ApplyConfiguration<Like>(new LikeConfiguration());
+            //modelBuilder.ApplyConfiguration<Post>(new PostConfiguration());
+            //modelBuilder.ApplyConfiguration<Tag>(new TagConfiguration());
+            //modelBuilder.ApplyConfiguration<User>(new UserConfiguration());
+
         }
     }
 }

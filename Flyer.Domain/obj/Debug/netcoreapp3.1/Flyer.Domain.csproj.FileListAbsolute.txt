@@ -8,3 +8,13 @@ C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones 
 C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Domain\obj\Debug\netcoreapp3.1\Flyer.Domain.csproj.CoreCompileInputs.cache
 C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Domain\obj\Debug\netcoreapp3.1\Flyer.Domain.dll
 C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Domain\obj\Debug\netcoreapp3.1\Flyer.Domain.pdb
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Domain\bin\Debug\netcoreapp3.1\Flyer.Domain.deps.json
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Domain\bin\Debug\netcoreapp3.1\Flyer.Domain.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Domain\bin\Debug\netcoreapp3.1\Flyer.Domain.pdb
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Domain\obj\Debug\netcoreapp3.1\Flyer.Domain.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Domain\obj\Debug\netcoreapp3.1\Flyer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Domain\obj\Debug\netcoreapp3.1\Flyer.Domain.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Domain\obj\Debug\netcoreapp3.1\Flyer.Domain.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Domain\obj\Debug\netcoreapp3.1\Flyer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Domain\obj\Debug\netcoreapp3.1\Flyer.Domain.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer.Domain\obj\Debug\netcoreapp3.1\Flyer.Domain.pdb

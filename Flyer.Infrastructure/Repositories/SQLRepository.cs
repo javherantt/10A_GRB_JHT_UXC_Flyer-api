@@ -1,6 +1,6 @@
 ﻿using Flyer.Domain.Entities;
 using Flyer.Domain.Interfaces;
-using Flyer.Infrastructure.Data;
+using Flyer.Infraestructure.Data;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,7 +8,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
 
-namespace Flyer.Infrastructure.Repositories
+namespace Flyer.Infraestructure.Repositories
 {
     public class SQLRepository<T> : IRepository<T> where T : BaseEntity
     {

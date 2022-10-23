@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "JdR2zzmQk3sOLagwmj3WftzpGaX/0oWZUYyxfCf2Y2qEeCzZFtMkrZNDmiyPkvFU/0Dx9pzN+ilwtoVXwrNzNA==",
+  "dgSpecHash": "UDXoEblaSuFEDkC/IFjKuh+2tOZnE2uubipz/fiR8fl19X1jOK8HueCZzg5b4F0AIJEYCtDsAx971wvDVvrO1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Javier Hernández\\Documents\\Universidad\\10° Cuatrimestre\\Aplicaciones Web Progresivas\\Flyer-API\\Flyer.Application\\Flyer.Application.csproj",
+  "projectFilePath": "C:\\Users\\Gabriel\\Documents\\Projects\\10A_GRB_JHT_UXC_Flyer-api\\Flyer.Application\\Flyer.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Javier Hernández\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
-    "C:\\Users\\Javier Hernández\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
-    "C:\\Users\\Javier Hernández\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\Javier Hernández\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
-    "C:\\Users\\Javier Hernández\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
-    "C:\\Users\\Javier Hernández\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
-    "C:\\Users\\Javier Hernández\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+    "C:\\Users\\Gabriel\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\Gabriel\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
