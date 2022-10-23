@@ -29,11 +29,11 @@
   },
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Flyer.API/1.0.0": {
+      "Flyer.Api/1.0.0": {
         "dependencies": {
-          "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.0.1",
-          "FluentValidation.AspNetCore": "9.3.0",
-          "Flyer.Infrastructure": "1.0.0",
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.0",
+          "Flyer.Application": "1.0.0",
+          "Flyer.Infraestructure": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "5.0.8",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
@@ -307,13 +307,13 @@
           "WindowsBase": "4.0.0.0"
         },
         "runtime": {
-          "Flyer.API.dll": {}
+          "Flyer.Api.dll": {}
         },
         "compile": {
-          "Flyer.API.dll": {}
+          "Flyer.Api.dll": {}
         }
       },
-      "AutoMapper/10.0.0": {
+      "AutoMapper/10.1.0": {
         "dependencies": {
           "Microsoft.CSharp": "4.7.0",
           "System.Reflection.Emit": "4.7.0"
@@ -321,64 +321,64 @@
         "runtime": {
           "lib/netstandard2.0/AutoMapper.dll": {
             "assemblyVersion": "10.0.0.0",
-            "fileVersion": "10.0.0.0"
+            "fileVersion": "10.1.0.0"
           }
         },
         "compile": {
           "lib/netstandard2.0/AutoMapper.dll": {}
         }
       },
-      "AutoMapper.Extensions.Microsoft.DependencyInjection/8.0.1": {
+      "AutoMapper.Extensions.Microsoft.DependencyInjection/8.1.0": {
         "dependencies": {
-          "AutoMapper": "10.0.0",
+          "AutoMapper": "10.1.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0",
           "Microsoft.Extensions.Options": "5.0.0"
         },
         "runtime": {
           "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1.0"
+            "fileVersion": "8.1.0.0"
           }
         },
         "compile": {
           "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
         }
       },
-      "FluentValidation/9.3.0": {
+      "FluentValidation/9.2.0": {
         "runtime": {
           "lib/netstandard2.0/FluentValidation.dll": {
             "assemblyVersion": "9.0.0.0",
-            "fileVersion": "9.3.0.0"
+            "fileVersion": "9.2.0.0"
           }
         },
         "compile": {
           "lib/netstandard2.0/FluentValidation.dll": {}
         }
       },
-      "FluentValidation.AspNetCore/9.3.0": {
+      "FluentValidation.AspNetCore/9.2.0": {
         "dependencies": {
-          "FluentValidation": "9.3.0",
-          "FluentValidation.DependencyInjectionExtensions": "9.3.0"
+          "FluentValidation": "9.2.0",
+          "FluentValidation.DependencyInjectionExtensions": "9.2.0"
         },
         "runtime": {
           "lib/netcoreapp3.1/FluentValidation.AspNetCore.dll": {
             "assemblyVersion": "9.0.0.0",
-            "fileVersion": "9.3.0.0"
+            "fileVersion": "9.2.0.0"
           }
         },
         "compile": {
           "lib/netcoreapp3.1/FluentValidation.AspNetCore.dll": {}
         }
       },
-      "FluentValidation.DependencyInjectionExtensions/9.3.0": {
+      "FluentValidation.DependencyInjectionExtensions/9.2.0": {
         "dependencies": {
-          "FluentValidation": "9.3.0",
+          "FluentValidation": "9.2.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0"
         },
         "runtime": {
           "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll": {
             "assemblyVersion": "9.0.0.0",
-            "fileVersion": "9.3.0.0"
+            "fileVersion": "9.2.0.0"
           }
         },
         "compile": {
@@ -1456,10 +1456,19 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
-      "Flyer.Domain/1.0.0": {
+      "Flyer.Application/1.0.0": {
         "dependencies": {
-          "FluentValidation.AspNetCore": "9.3.0"
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.0",
+          "Flyer.Domain": "1.0.0"
         },
+        "runtime": {
+          "Flyer.Application.dll": {}
+        },
+        "compile": {
+          "Flyer.Application.dll": {}
+        }
+      },
+      "Flyer.Domain/1.0.0": {
         "runtime": {
           "Flyer.Domain.dll": {}
         },
@@ -1467,17 +1476,19 @@
           "Flyer.Domain.dll": {}
         }
       },
-      "Flyer.Infrastructure/1.0.0": {
+      "Flyer.Infraestructure/1.0.0": {
         "dependencies": {
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.0",
+          "FluentValidation.AspNetCore": "9.2.0",
           "Flyer.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.8",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.8"
         },
         "runtime": {
-          "Flyer.Infrastructure.dll": {}
+          "Flyer.Infraestructure.dll": {}
         },
         "compile": {
-          "Flyer.Infrastructure.dll": {}
+          "Flyer.Infraestructure.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -3103,45 +3114,45 @@
     }
   },
   "libraries": {
-    "Flyer.API/1.0.0": {
+    "Flyer.Api/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "AutoMapper/10.0.0": {
+    "AutoMapper/10.1.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-T09NoqMZBqw0/JEauXulxnmmerl0Zj03e0r6VCcJ0LURWBIaYxZPPoiDv8bHf5Y4x2xcXJp4JPXoCaeOMJfHEA==",
-      "path": "automapper/10.0.0",
-      "hashPath": "automapper.10.0.0.nupkg.sha512"
+      "sha512": "sha512-qxn9+PpQJD53PAUHGXW3HTcq6Rxbv3Pyq/jTcc60ZYwOygyqUfHIY3HBChKbDwtTHdlwlQqJeJ1ckVcaoytxxw==",
+      "path": "automapper/10.1.0",
+      "hashPath": "automapper.10.1.0.nupkg.sha512"
     },
-    "AutoMapper.Extensions.Microsoft.DependencyInjection/8.0.1": {
+    "AutoMapper.Extensions.Microsoft.DependencyInjection/8.1.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-hhUzmc8Ld7wCuVHJFodsxtPmFqBAhB6nUNQUgaMF3uamQdxOLxntG0dwv+5ApC67GABa8Oay8MEYGg5IgVZP1Q==",
-      "path": "automapper.extensions.microsoft.dependencyinjection/8.0.1",
-      "hashPath": "automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512"
+      "sha512": "sha512-dQyGCAYcHbGuimVvCMu4Ea2S1oYOlgO9XfVdClmY5wgygJMZoS57emPzH0qNfknmtzMm4QbDO9i237W5IDjU1A==",
+      "path": "automapper.extensions.microsoft.dependencyinjection/8.1.0",
+      "hashPath": "automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512"
     },
-    "FluentValidation/9.3.0": {
+    "FluentValidation/9.2.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-C44l6Ih+YwpED/TsXfl6LIq6Z4wLXahstnr6T70uUg1Hs7/bLBKKAo9Nl0sLhVjDE8TA+fF+O3IM4nDrwabcSQ==",
-      "path": "fluentvalidation/9.3.0",
-      "hashPath": "fluentvalidation.9.3.0.nupkg.sha512"
+      "sha512": "sha512-LNUzNXWlBQavU/eB9pf4Tg8TTWgCw8E85OBA1GJv4xkdwuer9FuFLHTBjcYX+gGBkPFc2G+3utzEA4aMhUOL3w==",
+      "path": "fluentvalidation/9.2.0",
+      "hashPath": "fluentvalidation.9.2.0.nupkg.sha512"
     },
-    "FluentValidation.AspNetCore/9.3.0": {
+    "FluentValidation.AspNetCore/9.2.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-0ZKHVvNIVgZEGgCe8z4NyVoPaCmM0kTRM0EySC23Enuc4jzBdhI+LtGhcvkF7lAulNlxR2S9IDnLibOM6RDaHg==",
-      "path": "fluentvalidation.aspnetcore/9.3.0",
-      "hashPath": "fluentvalidation.aspnetcore.9.3.0.nupkg.sha512"
+      "sha512": "sha512-LOEBZoLPCULAVnRLgxPzF64V2KnMNlWatE6zfLq+h+kgEsPGxl0i/0ky6vNhyRHQkINSqaEBzTCOaQuOvz/d9Q==",
+      "path": "fluentvalidation.aspnetcore/9.2.0",
+      "hashPath": "fluentvalidation.aspnetcore.9.2.0.nupkg.sha512"
     },
-    "FluentValidation.DependencyInjectionExtensions/9.3.0": {
+    "FluentValidation.DependencyInjectionExtensions/9.2.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-5PnAIlsApzWPp9rjxfu3xVWSj2qMDeFnEE3P4yx/oIQO1aLhPEEn4yW7JiydP9kpQKAtZ53qwNaOoQ1xSxajuA==",
-      "path": "fluentvalidation.dependencyinjectionextensions/9.3.0",
-      "hashPath": "fluentvalidation.dependencyinjectionextensions.9.3.0.nupkg.sha512"
+      "sha512": "sha512-NZWi2FIRsD/R6JOngv2faT9I8BfKR3hRfxY8DoRUjBkOM6X2LMfmYnTNg/NFjKc8w3bKhVj7n7CxvApTKXetwQ==",
+      "path": "fluentvalidation.dependencyinjectionextensions/9.2.0",
+      "hashPath": "fluentvalidation.dependencyinjectionextensions.9.2.0.nupkg.sha512"
     },
     "Humanizer.Core/2.8.26": {
       "type": "package",
@@ -3815,12 +3826,17 @@
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
+    "Flyer.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Flyer.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Flyer.Infrastructure/1.0.0": {
+    "Flyer.Infraestructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

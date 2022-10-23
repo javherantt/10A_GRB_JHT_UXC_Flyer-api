@@ -1,74 +1,74 @@
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Flyer.API.exe
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Flyer.API.deps.json
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Flyer.API.runtimeconfig.json
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Flyer.API.runtimeconfig.dev.json
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Flyer.API.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Flyer.API.pdb
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\AutoMapper.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\FluentValidation.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Humanizer.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Flyer.Domain.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Flyer.Infrastructure.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Flyer.Infrastructure.pdb
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Flyer.Domain.pdb
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.API.csproj.AssemblyReference.cache
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.API.AssemblyInfoInputs.cache
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.API.AssemblyInfo.cs
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.API.csproj.CoreCompileInputs.cache
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\obj\Debug\netcoreapp3.1\staticwebassets\Flyer.API.StaticWebAssets.Manifest.cache
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\obj\Debug\netcoreapp3.1\staticwebassets\Flyer.API.StaticWebAssets.xml
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Flyer.API.styles.css
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.API.RazorTargetAssemblyInfo.cache
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.API.csproj.CopyComplete
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.API.dll
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.API.pdb
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.API.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Flyer.Api.exe
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Flyer.Api.deps.json
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Flyer.Api.runtimeconfig.json
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Flyer.Api.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Flyer.Api.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Flyer.Api.pdb
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Flyer.Application.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Flyer.Domain.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Flyer.Infraestructure.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Flyer.Application.pdb
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Flyer.Infraestructure.pdb
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\bin\Debug\netcoreapp3.1\Flyer.Domain.pdb
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.Api.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.Api.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.Api.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.Api.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\obj\Debug\netcoreapp3.1\staticwebassets\Flyer.Api.StaticWebAssets.Manifest.cache
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.Api.csproj.CopyComplete
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.Api.dll
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.Api.pdb
+C:\Users\Gabriel\Documents\Projects\10A_GRB_JHT_UXC_Flyer-api\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.Api.genruntimeconfig.cache

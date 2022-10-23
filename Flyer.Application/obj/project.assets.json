@@ -77,6 +77,16 @@
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
         }
+      },
+      "Flyer.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Flyer.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Flyer.Domain.dll": {}
+        }
       }
     }
   },
@@ -275,11 +285,17 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Flyer.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Flyer.Domain/Flyer.Domain.csproj",
+      "msbuildProject": "../Flyer.Domain/Flyer.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "AutoMapper.Extensions.Microsoft.DependencyInjection >= 8.1.0"
+      "AutoMapper.Extensions.Microsoft.DependencyInjection >= 8.1.0",
+      "Flyer.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -315,7 +331,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Javier Hernández\\Documents\\Universidad\\10° Cuatrimestre\\Aplicaciones Web Progresivas\\Flyer-API\\Flyer.Domain\\Flyer.Domain.csproj": {
+              "projectPath": "C:\\Users\\Javier Hernández\\Documents\\Universidad\\10° Cuatrimestre\\Aplicaciones Web Progresivas\\Flyer-API\\Flyer.Domain\\Flyer.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

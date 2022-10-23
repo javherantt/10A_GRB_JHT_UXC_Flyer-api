@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Flyer.API")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Flyer.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Flyer.API")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Flyer.API")]
+[assembly: System.Reflection.AssemblyProductAttribute("Flyer.Api")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Flyer.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
