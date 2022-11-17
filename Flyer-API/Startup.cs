@@ -32,7 +32,7 @@ namespace Flyer.Api
             services.AddScoped(typeof(IRepository<>), typeof(SQLRepository<>));
 
             services.AddDbContext<FlyerDBContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("Gabriel"))
+                    options.UseSqlServer(Configuration.GetConnectionString("FlyerDB"))
             );
 
             services.AddMvc().AddFluentValidation(options =>
