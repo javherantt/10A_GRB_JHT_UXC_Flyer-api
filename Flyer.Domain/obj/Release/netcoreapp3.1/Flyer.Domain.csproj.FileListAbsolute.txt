@@ -1,0 +1,10 @@
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Domain\bin\Release\netcoreapp3.1\Flyer.Domain.deps.json
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Domain\bin\Release\netcoreapp3.1\Flyer.Domain.dll
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Domain\bin\Release\netcoreapp3.1\Flyer.Domain.pdb
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Domain\obj\Release\netcoreapp3.1\Flyer.Domain.csproj.AssemblyReference.cache
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Domain\obj\Release\netcoreapp3.1\Flyer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Domain\obj\Release\netcoreapp3.1\Flyer.Domain.AssemblyInfoInputs.cache
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Domain\obj\Release\netcoreapp3.1\Flyer.Domain.AssemblyInfo.cs
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Domain\obj\Release\netcoreapp3.1\Flyer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Domain\obj\Release\netcoreapp3.1\Flyer.Domain.dll
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Domain\obj\Release\netcoreapp3.1\Flyer.Domain.pdb

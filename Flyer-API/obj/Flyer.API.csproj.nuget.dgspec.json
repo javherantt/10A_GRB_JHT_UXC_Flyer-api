@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Javier Hernández\\Documents\\Universidad\\10° Cuatrimestre\\Aplicaciones Web Progresivas\\Flyer-API\\Flyer-API\\Flyer.Api.csproj": {}
+    "C:\\Users\\Javier Hernández\\Documents\\Universidad\\10° Cuatrimestre\\Aplicaciones Web Progresivas\\Flyer-API\\Flyer-API\\Flyer.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Javier Hernández\\Documents\\Universidad\\10° Cuatrimestre\\Aplicaciones Web Progresivas\\Flyer-API\\Flyer-API\\Flyer.Api.csproj": {
+    "C:\\Users\\Javier Hernández\\Documents\\Universidad\\10° Cuatrimestre\\Aplicaciones Web Progresivas\\Flyer-API\\Flyer-API\\Flyer.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Javier Hernández\\Documents\\Universidad\\10° Cuatrimestre\\Aplicaciones Web Progresivas\\Flyer-API\\Flyer-API\\Flyer.Api.csproj",
-        "projectName": "Flyer.Api",
-        "projectPath": "C:\\Users\\Javier Hernández\\Documents\\Universidad\\10° Cuatrimestre\\Aplicaciones Web Progresivas\\Flyer-API\\Flyer-API\\Flyer.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Javier Hernández\\Documents\\Universidad\\10° Cuatrimestre\\Aplicaciones Web Progresivas\\Flyer-API\\Flyer-API\\Flyer.API.csproj",
+        "projectName": "Flyer.API",
+        "projectPath": "C:\\Users\\Javier Hernández\\Documents\\Universidad\\10° Cuatrimestre\\Aplicaciones Web Progresivas\\Flyer-API\\Flyer-API\\Flyer.API.csproj",
         "packagesPath": "C:\\Users\\Javier Hernández\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Javier Hernández\\Documents\\Universidad\\10° Cuatrimestre\\Aplicaciones Web Progresivas\\Flyer-API\\Flyer-API\\obj\\",
         "projectStyle": "PackageReference",
@@ -69,7 +69,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -81,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -141,7 +142,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -150,7 +152,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -200,7 +202,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -209,7 +212,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -293,7 +296,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -302,7 +306,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

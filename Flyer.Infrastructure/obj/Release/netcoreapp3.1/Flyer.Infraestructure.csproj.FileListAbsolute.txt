@@ -1,0 +1,16 @@
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Infrastructure\bin\Release\netcoreapp3.1\Flyer.Infraestructure.deps.json
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Infrastructure\bin\Release\netcoreapp3.1\Flyer.Infraestructure.runtimeconfig.json
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Infrastructure\bin\Release\netcoreapp3.1\Flyer.Infraestructure.runtimeconfig.dev.json
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Infrastructure\bin\Release\netcoreapp3.1\Flyer.Infraestructure.dll
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Infrastructure\bin\Release\netcoreapp3.1\Flyer.Infraestructure.pdb
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Infrastructure\bin\Release\netcoreapp3.1\Flyer.Domain.dll
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Infrastructure\bin\Release\netcoreapp3.1\Flyer.Domain.pdb
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Infrastructure\obj\Release\netcoreapp3.1\Flyer.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Infrastructure\obj\Release\netcoreapp3.1\Flyer.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Infrastructure\obj\Release\netcoreapp3.1\Flyer.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Infrastructure\obj\Release\netcoreapp3.1\Flyer.Infraestructure.AssemblyInfo.cs
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Infrastructure\obj\Release\netcoreapp3.1\Flyer.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Infrastructure\obj\Release\netcoreapp3.1\Flyer.Infraestructure.csproj.CopyComplete
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Infrastructure\obj\Release\netcoreapp3.1\Flyer.Infraestructure.dll
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Infrastructure\obj\Release\netcoreapp3.1\Flyer.Infraestructure.pdb
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Infrastructure\obj\Release\netcoreapp3.1\Flyer.Infraestructure.genruntimeconfig.cache

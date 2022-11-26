@@ -1,0 +1,13 @@
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Application\bin\Release\netcoreapp3.1\Flyer.Application.deps.json
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Application\bin\Release\netcoreapp3.1\Flyer.Application.dll
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Application\bin\Release\netcoreapp3.1\Flyer.Application.pdb
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Application\bin\Release\netcoreapp3.1\Flyer.Domain.dll
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Application\bin\Release\netcoreapp3.1\Flyer.Domain.pdb
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Application\obj\Release\netcoreapp3.1\Flyer.Application.csproj.AssemblyReference.cache
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Application\obj\Release\netcoreapp3.1\Flyer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Application\obj\Release\netcoreapp3.1\Flyer.Application.AssemblyInfoInputs.cache
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Application\obj\Release\netcoreapp3.1\Flyer.Application.AssemblyInfo.cs
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Application\obj\Release\netcoreapp3.1\Flyer.Application.csproj.CoreCompileInputs.cache
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Application\obj\Release\netcoreapp3.1\Flyer.Application.csproj.CopyComplete
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Application\obj\Release\netcoreapp3.1\Flyer.Application.dll
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer.Application\obj\Release\netcoreapp3.1\Flyer.Application.pdb

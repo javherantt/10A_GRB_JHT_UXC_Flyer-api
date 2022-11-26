@@ -29,7 +29,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Flyer.Api/1.0.0": {
+      "Flyer.API/1.0.0": {
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.0",
           "Flyer.Application": "1.0.0",
@@ -307,10 +307,10 @@
           "WindowsBase": "4.0.0.0"
         },
         "runtime": {
-          "Flyer.Api.dll": {}
+          "Flyer.API.dll": {}
         },
         "compile": {
-          "Flyer.Api.dll": {}
+          "Flyer.API.dll": {}
         }
       },
       "AutoMapper/10.1.0": {
@@ -3114,7 +3114,7 @@
     }
   },
   "libraries": {
-    "Flyer.Api/1.0.0": {
+    "Flyer.API/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
