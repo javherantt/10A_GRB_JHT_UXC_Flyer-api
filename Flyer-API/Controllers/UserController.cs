@@ -7,6 +7,7 @@ using System;
 using Flyer.Domain.Interfaces;
 using Flyer.Domain.Entities;
 using Flyer.Domain.DTOs;
+using System.Linq;
 
 namespace Flyer.Api.Controllers
 {
@@ -72,6 +73,18 @@ namespace Flyer.Api.Controllers
             await _userService.UpdateUser(user);
             var result = new ApiResponse<bool>(true);
             return Ok(result);
+        }
+
+        [HttpPost("Login")]
+        public async Task<IActionResult> Login([FromForm]User user)
+        {
+            var users = await _userService.GetUsers();
+            var usersDto = _mapper.Map<IEnumerable<User>, IEnumerable<UserResponseDto>>(users);
+            var existUser = usersDto.FirstOrDefault(e => e.Email.Equals(user.Email) && e.Password.Equals(user.Password));
+            if (existUser != null)
+                return Ok(true);
+            else
+                return Ok(false);
         }
     }
 }

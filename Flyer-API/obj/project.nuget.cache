@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dN7zmCtAdEFbtFX/tz5k62gNSeSTHgyhr3ksdrG5UxItZ0pMvo6wzMqiwsO5+V8vhR6scl/RvMRk14MM1WX4+g==",
+  "dgSpecHash": "ie1a7JLd0DPN3gT2Dw5lemDEmT+oxz8vCBJZTRMHGKmVfLvHo8LjEraPNxqmEgQiYu7WMy96upcGRmXEtqOXyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Javier Hernández\\Documents\\Universidad\\10° Cuatrimestre\\Aplicaciones Web Progresivas\\Flyer-API\\Flyer-API\\Flyer.API.csproj",
+  "projectFilePath": "C:\\Users\\Javier Hernández\\Documents\\Universidad\\10° Cuatrimestre\\Aplicaciones Web Progresivas\\Flyer-API\\Flyer-API\\Flyer.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Javier Hernández\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\Javier Hernández\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

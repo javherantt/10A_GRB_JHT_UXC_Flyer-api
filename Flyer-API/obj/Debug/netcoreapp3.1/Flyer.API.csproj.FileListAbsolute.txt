@@ -146,4 +146,5 @@ C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones 
 C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.Api.dll
 C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.Api.pdb
 C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\obj\Debug\netcoreapp3.1\Flyer.Api.genruntimeconfig.cache
-C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\bin\Debug\netcoreapp3.1\Flyer.API.StaticWebAssets.xml
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\obj\Debug\netcoreapp3.1\staticwebassets\Flyer.Api.StaticWebAssets.xml
+C:\Users\Javier Hernández\Documents\Universidad\10° Cuatrimestre\Aplicaciones Web Progresivas\Flyer-API\Flyer-API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Flyer.Api.styles.css
