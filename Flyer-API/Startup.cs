@@ -44,7 +44,7 @@ namespace Flyer.Api
             services.AddTransient<IPostService, PostService>();
             services.AddTransient<ITagService, TagService>();
             services.AddTransient<IUserService, UserService>();
-            services.AddTransient<IUnitOfWork, UnitOfWork>();
+            services.AddTransient<IUnitOfWork, UnitOfWork>();       
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

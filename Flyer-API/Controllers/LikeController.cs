@@ -46,7 +46,7 @@ namespace Flyer.Api.Controllers
 
 
         [HttpPost]
-        public async Task<IActionResult> Post(FollowRequestDto followRequestDto)
+        public async Task<IActionResult> Post([FromForm] FollowRequestDto followRequestDto)
         {
             var follow = _mapper.Map<FollowRequestDto, Follow>(followRequestDto);
             await _followService.AddFollow(follow);

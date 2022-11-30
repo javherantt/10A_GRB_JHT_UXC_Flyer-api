@@ -46,9 +46,9 @@ namespace Flyer.Api.Controllers
 
 
         [HttpPost]
-        public async Task<IActionResult> Post(UserRequestDto userRequestDto)
-        {
-            var user = _mapper.Map<UserRequestDto, User>(userRequestDto);
+        public async Task<IActionResult> Post([FromForm]UserRequestDto userRequestDto)
+        {            
+            var user = _mapper.Map<UserRequestDto, User>(userRequestDto);            
             await _userService.AddUser(user);
             var userresponseDto = _mapper.Map<User, UserResponseDto>(user);
             var response = new ApiResponse<UserResponseDto>(userresponseDto);

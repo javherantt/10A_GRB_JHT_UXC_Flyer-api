@@ -46,7 +46,7 @@ namespace Flyer.Api.Controllers
 
 
         [HttpPost]
-        public async Task<IActionResult> Post(TagRequestDto tagRequestDto)
+        public async Task<IActionResult> Post([FromForm] TagRequestDto tagRequestDto)
         {
             var tag = _mapper.Map<TagRequestDto, Tag>(tagRequestDto);
             await _tagService.AddTag(tag);

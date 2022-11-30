@@ -46,7 +46,7 @@ namespace Flyer.Api.Controllers
 
 
         [HttpPost]
-        public async Task<IActionResult> Post(CommentRequestDto commentRequestDto)
+        public async Task<IActionResult> Post([FromForm]CommentRequestDto commentRequestDto)
         {
             var comment = _mapper.Map<CommentRequestDto, Comment>(commentRequestDto);
             await _commentService.AddComment(comment);

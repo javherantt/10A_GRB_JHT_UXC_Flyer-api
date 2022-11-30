@@ -17,10 +17,12 @@ namespace Flyer.Api.Controllers
     {
         private readonly IPostService _postService;
         private readonly IMapper _mapper;
+  
+
         public PostController(IPostService postService, IMapper mapper)
         {
             this._postService = postService;
-            this._mapper = mapper;
+            this._mapper = mapper;    
         }
 
         [HttpGet]
@@ -46,7 +48,7 @@ namespace Flyer.Api.Controllers
 
 
         [HttpPost]
-        public async Task<IActionResult> Post(PostRequestDto postRequestDto)
+        public async Task<IActionResult> Post([FromForm]PostRequestDto postRequestDto)
         {
             var post = _mapper.Map<PostRequestDto, Post>(postRequestDto);
             await _postService.AddPost(post);
