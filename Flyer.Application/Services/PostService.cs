@@ -49,5 +49,19 @@ namespace Flyer.Application.Services
         {
             await _unitOfWork.PostRepository.Update(post);
         }
+
+        public async Task<IEnumerable<Post>> GetPostsByUser (int id)
+        {
+            Expression<Func<Post, bool>> expression = item => item.UserId == id;
+            var posts = await _unitOfWork.PostRepository.FindByCondition(expression);
+            return posts;
+        }
+
+        public async Task<IEnumerable<Post>> GetPostsCategory (int category)
+        {            
+            Expression<Func<Post, bool>> expression = item => item.TagId == category;
+            var posts = await _unitOfWork.PostRepository.FindByCondition(expression);
+            return posts;
+        }
     }
 }

@@ -43,8 +43,6 @@ namespace Flyer.Api.Controllers
             return Ok(userDto);
         }
 
-
-
         [HttpPost]
         public async Task<IActionResult> Post([FromForm]UserRequestDto userRequestDto)
         {            
@@ -63,8 +61,8 @@ namespace Flyer.Api.Controllers
             return Ok(result);
         }
 
-        [HttpPut]
-        public async Task<IActionResult> Put(int id, UserResponseDto userResponse)
+        [HttpPut("id={id:int}")]
+        public async Task<IActionResult> Put(int id, [FromForm]UserResponseDto userResponse)
         {
             var user = _mapper.Map<User>(userResponse);
             user.Id = id;
@@ -76,15 +74,15 @@ namespace Flyer.Api.Controllers
         }
 
         [HttpPost("Login")]
-        public async Task<IActionResult> Login([FromForm]User user)
+        public async Task<int> Login([FromForm]User user)
         {
             var users = await _userService.GetUsers();
             var usersDto = _mapper.Map<IEnumerable<User>, IEnumerable<UserResponseDto>>(users);
             var existUser = usersDto.FirstOrDefault(e => e.Email.Equals(user.Email) && e.Password.Equals(user.Password));
             if (existUser != null)
-                return Ok(true);
+                return existUser.Id;
             else
-                return Ok(false);
+                return 0;
         }
     }
 }

@@ -63,8 +63,8 @@ namespace Flyer.Api.Controllers
             return Ok(result);
         }
 
-        [HttpPut]
-        public async Task<IActionResult> Put(int id, CommentResponseDto commentResponse)
+        [HttpPut("id={id:int}")]
+        public async Task<IActionResult> Put(int id, [FromForm]CommentResponseDto commentResponse)
         {
             var comment = _mapper.Map<Comment>(commentResponse);
             comment.Id = id;

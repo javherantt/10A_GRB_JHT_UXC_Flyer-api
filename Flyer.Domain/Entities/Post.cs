@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace Flyer.Domain.Entities
 {
@@ -17,6 +18,7 @@ namespace Flyer.Domain.Entities
         public string Description { get; set; }
         public string Filename { get; set; }
         public int Views { get; set; }
+       
         public DateTime timestamp { get; set; }
 
         public virtual User User { get; set; }

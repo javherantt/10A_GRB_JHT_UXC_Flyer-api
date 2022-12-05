@@ -12,6 +12,8 @@ namespace Flyer.Domain.Interfaces
         Task DeletePost(int id);
         Task<IEnumerable<Post>> GetPosts();
         Task<Post> GetPost(int id);
+        Task<IEnumerable<Post>> GetPostsByUser(int id);
+        Task<IEnumerable<Post>> GetPostsCategory(int id);
         Task UpdatePost(Post post);
     }
 }

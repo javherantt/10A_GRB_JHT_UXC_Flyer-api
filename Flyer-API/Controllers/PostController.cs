@@ -45,12 +45,27 @@ namespace Flyer.Api.Controllers
             return Ok(postDto);
         }
 
+        [HttpGet("User/{id:int}")]
+        public async Task<IActionResult> GetPostsByUser(int id)
+        {
+            var posts = await _postService.GetPostsByUser(id);
+            var postDto = _mapper.Map<IEnumerable<Post>, IEnumerable<PostResponseDto>>(posts);
+            return Ok(postDto);
+        }
 
+        [HttpGet("Category/{id:int}")]
+        public async Task<IActionResult> GetPostsCategory(int id)
+        {
+            var posts = await _postService.GetPostsCategory(id);
+            var poststDto = _mapper.Map<IEnumerable<Post>, IEnumerable<PostResponseDto>>(posts);
+            return Ok(poststDto);
+        }
 
         [HttpPost]
         public async Task<IActionResult> Post([FromForm]PostRequestDto postRequestDto)
         {
             var post = _mapper.Map<PostRequestDto, Post>(postRequestDto);
+            post.timestamp = DateTime.Now;
             await _postService.AddPost(post);
             var postresponseDto = _mapper.Map<Post, PostResponseDto>(post);
             var response = new ApiResponse<PostResponseDto>(postresponseDto);
@@ -65,8 +80,8 @@ namespace Flyer.Api.Controllers
             return Ok(result);
         }
 
-        [HttpPut]
-        public async Task<IActionResult> Put(int id, PostResponseDto postResponse)
+        [HttpPut("id={id:int}")]
+        public async Task<IActionResult> Put(int id, [FromForm]PostResponseDto postResponse)
         {
             var post = _mapper.Map<Post>(postResponse);
             post.Id = id;
